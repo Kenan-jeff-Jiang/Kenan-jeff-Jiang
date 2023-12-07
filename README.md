@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kenan-jeff-Jiang
-- 👀 I’m interested in NLP, Multimodel, Digital Humanities, LLM
+- 👀 I’m interested in ML, Multimodel, Digital Humanities, NLP...
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at kenanjeffjiang@gmail.com
 
 <!---
