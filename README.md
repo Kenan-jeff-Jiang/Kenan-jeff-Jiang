@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenan-jeff-Jiang
 - 👀 I’m interested in ML, Multimodel, Digital Humanities, NLP...
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Sumerian grammar.
 - 📫 Reach me at kenanjeffjiang@gmail.com
 
 <!---
